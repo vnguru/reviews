@@ -18,7 +18,7 @@ if ( !class_exists( 'WP_Importer' ) ) {
 		require_once $class_wp_importer;
 }ssss
 // Load Class
-require ICSAIO_PATH. '/class/class.Import.php';
+require ICSAIO_PATH. '/class/class.Import.php';ssssssssssss
 if(class_exists('Ai1ec_Base')){
       //Extends Ai1ec_Base class from AIO
     Class IcsAio extends Ai1ec_Base{
